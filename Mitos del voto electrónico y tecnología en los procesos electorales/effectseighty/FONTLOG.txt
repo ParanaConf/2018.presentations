@@ -1,0 +1,25 @@
+FONTLOG for the EffectsEighty fonts
+
+This file provides detailed information on the EffectsEighty Font Software.
+This information should be distributed along with the EffectsEighty fonts
+and any derivative works.
+
+Basic Font Information
+
+EffectsEighty is a typeface family that supports the ASCII printable
+character set.  It is created based on the output of commonly available
+dot matrix printers manufactured in the latter part of the 20th century.
+
+The EffectsEighty family includes Normal, Bold, Italic, and Bold Italic variants.
+
+It is planned to be updated with additional Latin-1 support in the future.
+
+ChangeLog
+
+5 August 2017 (Peter Hull) EffectsEighty version 1.1.0
+- Second released version, updated with Glyphs, and including
+  Glyphs source files and woff/woff2 web binaries, and accompanying
+  CSS @font-face loader.
+  
+31 July 2013 (Peter Hull) EffectsEighty version 1.0.0
+- First released version, supporting only ASCII printables

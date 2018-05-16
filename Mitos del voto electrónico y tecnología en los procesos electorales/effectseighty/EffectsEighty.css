@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Effects Eighty';
+    font-weight: normal;
+    font-style: normal;
+    src: url('EffectsEighty.woff') format('woff'), url('EffectsEighty.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Effects Eighty';
+    font-weight: bold;
+    font-style: normal;
+    src: url('EffectsEightyBold.woff') format('woff'), url('EffectsEightyBold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Effects Eighty';
+    font-weight: normal;
+    font-style: italic;
+    src: url('EffectsEightyItalic.woff') format('woff'), url('EffectsEightyItalic.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Effects Eighty';
+    font-weight: bold;
+    font-style: italic;
+    src: url('EffectsEightyBoldItalic.woff') format('woff'), url('EffectsEightyBoldItalic.woff2') format('woff2');
+}
