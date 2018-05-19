@@ -26,4 +26,5 @@
 |Website:						|[http://www.gugler.com.ar](http://www.gugler.com.ar)		|
 
 ## Link  
-Puedes ver el video de la presentación de forma online en [https://www.youtube.com/watch?v=LyanMtyhHAk](https://www.youtube.com/watch?v=LyanMtyhHAk)
+ * [GitHub](https://github.com/ParanaConf/2018.presentations/raw/master/Presentaci%C3%B3n%20EMA%20Libre/Ema_Presentacion.pdf)
+ * [Gugler](https://campusvirtual.gugler.com.ar/course/view.php?id=41). *Acceder como invitado*
