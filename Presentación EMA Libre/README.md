@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td>
-<p>EMA Libre es un proyecto del [Laboratorio Gugler](http://www.gugler.com.ar) que pretende generar una alternativa libre para el control y gestión de estaciones meteorológicas y los datos que estas generan. En esta charla se hace una introducción al proyecto y su funcionamiento.
+<p>EMA Libre es un proyecto del Laboratorio [GUGLER](http://www.gugler.com.ar) que pretende generar una alternativa libre para el control y gestión de estaciones meteorológicas y los datos que estas generan. En esta charla se hace una introducción al proyecto y su funcionamiento.
 </td>
 <td>
 <a href="http://www.gugler.com.ar" target="_blank"><img src="gugler.png"></a>
