@@ -39,10 +39,12 @@ These are the talks/workshop that were presented in ParanaConf 2018
   * **Hardening anti-ransomware...una mirada no técnica**
     * GitHub \[ [download](https://github.com/ParanaConf/2018.presentations/raw/master/Hardening%20anti-ransomware...una%20mirada%20no%20t%C3%A9cnica/ParanaConf%202018%20-%20Ing.%20Social%20%26%20RW.pdf) | [repository](https://github.com/ParanaConf/2018.presentations/tree/master/Hardening%20anti-ransomware...una%20mirada%20no%20t%C3%A9cnica)\]
   * El peor enemigo de la seguridad
+    * ...
   * **Sistema de Gestión de Seguridad de la Información ¿Que es?**
     * GitHub \[ [download](https://github.com/ParanaConf/2018.presentations/raw/master/Sistema%20de%20gesti%C3%B3n%20de%20seguidad%20de%20la%20informaci%C3%B3n/SGSI-ISO27001.pdf) | [repository](https://github.com/ParanaConf/2018.presentations/tree/master/Sistema%20de%20gesti%C3%B3n%20de%20seguidad%20de%20la%20informaci%C3%B3n)\]
-  * Presentación EMA Libre (Estaciones Meteorológicas Automáticas)
-    * ...
+  * **Presentación EMA Libre (Estaciones Meteorológicas Automáticas)**
+    * GitHub \[ [download](https://github.com/ParanaConf/2018.presentations/raw/master/Presentaci%C3%B3n%20EMA%20Libre/Ema_Presentacion.pdf) | [repository](https://github.com/ParanaConf/2018.presentations/tree/master/Presentaci%C3%B3n%20EMA%20Libre)\]
+    * [Gugler](https://campusvirtual.gugler.com.ar/course/view.php?id=41). *Acceder como invitado*
   * **WORKSHOP: Introducción al Pentesting de Red For Fun & Profit**
     * GitHub \[ [Download](https://github.com/ParanaConf/2018.presentations/raw/master/WORKSHOP:%20Introducci%C3%B3n%20al%20Pentesting%20de%20Red%20For%20Fun%20%26%20Profit/ParanaConf_2018-WORKSHOP%20Introducci%C3%B3n%20al%20Pentesting%20de%20Red.pptx) [Download - Anexo](https://github.com/ParanaConf/2018.presentations/raw/master/WORKSHOP:%20Introducci%C3%B3n%20al%20Pentesting%20de%20Red%20For%20Fun%20%26%20Profit/Pentesting%20ParanaConf%202018.docx) | [repository](https://github.com/ParanaConf/2018.presentations/tree/master/WORKSHOP:%20Introducci%C3%B3n%20al%20Pentesting%20de%20Red%20For%20Fun%20%26%20Profit)\]
   * Insecure by default
